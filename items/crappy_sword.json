@@ -1,0 +1,10 @@
+{
+  "id": "tofaa:crappysword",
+  "material": "minecraft:wooden_sword",
+  "components": [
+    {
+      "id": "tofaa:crappy",
+      "display": "Hello Crappy Component"
+    }
+  ]
+}
